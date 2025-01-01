@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -81,7 +81,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Sachin Sanatani```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ ꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/NoT_YoUr_ViLLain) **
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -397,34 +397,34 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [𝖫ҽɠҽɳԃ 𝐓ʜᴜɴᴅᴇʀ](https://t.me/ll_THUNDER_lll)
-❍ ᴄσηᴛᴧᴄᴛ - [𝖫ҽɠҽɳԃ 𝐒ᴇʜᴢᴀᴅᴀ](https://t.me/ll_SEHZADA_143)
+❍ ᴄσηᴛᴧᴄᴛ - [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/LEGEND_HU_BSDK)
+❍ ᴄσηᴛᴧᴄᴛ - [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/LEGEND_HU_BSDK)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/ll_THUNDER_lll)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/LEGEND_HU_BSDK)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
 
-  [ᴛʜᴜɴᴅᴇʀ ϻυsɪᴄ](https://t.me/ThunderMusicRobot) : ᴧʟɪᴠє 
+  [𝗩𝗜𝗟𝗟𝗔𝗜𝗡 ˼ ✘ ˹ 𝗠𝗨𝗦𝗜𝗖](https://t.me/ViLLaiN_Music_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ᴘᴜʀᴠɪ ϻυsɪᴄ](https://t.me/purvi_music_bot) : ᴧʟɪᴠє 
+╭⎋ [𝗣ᴀʀᴅʜᴀɴ ✘ 𝗠ᴜsɪᴄ](https://t.me/Pardhan_music_robot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ʙᴀʙʏ ϻυsɪᴄ](https://t.me/baby_x_music_bot) : ᴧʟɪᴠє 
+╭⎋ [𝗦𝗜𝗞𝗛𝗔˼ ✘ ˹ 𝗠𝗨𝗦𝗜𝗖](https://t.me/Sikha_music_robot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/THUNDERDEVS/817)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/VILLAIN_MUSIC_UPDATE)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
 ─────────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS) ˼
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/VILLAIN_MUSIC_UPDATE) ˼
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
@@ -444,10 +444,10 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/THUNDERDEVS)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [⌯꯭꯭↬꯭֟፝͝𐏓꯭꯭꯭꯭꯭꯭꯭ 𝐓꯭ᴇᴧ꯭ᴍ ꯭ 𝖳 ꯭꯭ʜ꯭꯭꯭ ߎ꯭ ꯭ɴ ꯭ᴅ꯭ ᴇ꯭ ʀ ꯭](https://t.me/CRAZY_OP_02)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [ʟᴇɢᴇɴᴅ-ɪsᴛᴋʜᴀʀ](https://t.me/ll_THUNDER_lll)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/THUNDERDEVS)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/VILLAIN_MUSIC_UPDATE)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [꯭🜲꯭ 𝗩꯭𝗜𝗟꯭𝗟꯭𝗔꯭𝗜𝗡꯭ 🜲꯭](https://t.me/pardhan_ki_haveli)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [ʟᴇɢᴇɴᴅ](https://t.me/LEGEND_HU_BSDK)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/VILLAIN_MUSIC_UPDATE)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!
