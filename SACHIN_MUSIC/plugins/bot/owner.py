@@ -10,16 +10,16 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - ʟᴇɢᴇɴᴅ ᴍɪᴄᴋᴇʏ
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - ᴛᴏsᴜ ᴍᴇᴍᴏɴ
+│├ ᴛɢ ɴᴀᴍᴇ - 𝗩𝗜𝗟𝗟𝗔𝗜𝗡
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - KYA KROGE JANKE
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @THE_INCRICIBLE
-├┤~ @LEGEND_MICKEY
-├┤~ @ABOUT_GODFATHER
+├┤~ @NoT_YoUr_ViLLain
+├┤~ @LEGEND_HU_BSDK
+├┤~ @PARDHAN_HU_BSDK
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @LEGEND_MICKEY
+│├OWNER│ @LEGEND_HU_BSDK
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -32,17 +32,17 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton(" 𝗟𝗘𝗚𝗘𝗡𝗗 𝗠𝗜𝗖𝗞𝗘𝗬", url=f"https://t.me/LEGEND_MICKEY")
+          InlineKeyboardButton(" 𝗟𝗘𝗚𝗘𝗡𝗗 ", url=f"https://t.me/LEGEND_HU_BSDK")
         ],
         [
-          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/THE_INCRICIBLE"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/THE_INCRICIBLE"),
+          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/VILLAIN_MUSIC_UPDATE"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/VILLAIN_MUSIC_UPDATE"),
           ],
                [
-                InlineKeyboardButton("ɪɴᴄʀɪᴄɪʙʟᴇ ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/THE_INCRICIBLE"),
+                InlineKeyboardButton("VILLAIN ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/VILLAIN_MUSIC_UPDATE"),
 ],
 [
-InlineKeyboardButton("ᴏғғɪᴄɪᴀʟ ʙᴏᴛ", url=f"https://t.me/ZOYUMUSICBOT"),
+InlineKeyboardButton("ᴏғғɪᴄɪᴀʟ ʙᴏᴛ", url=f"https://t.me/ViLLaiN_Music_bot"),
 
         ]]
     
