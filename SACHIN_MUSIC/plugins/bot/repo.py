@@ -24,14 +24,14 @@ async def start(_, msg):
           InlineKeyboardButton("✙ ᴀᴅᴅ ᴍᴇ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜᴇʟᴘ •", url="https://t.me/ZOYU_SUPPORT"),
-          InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/Legend_mickey"),
+          InlineKeyboardButton("• ʜᴇʟᴘ •", url="https://t.me/FRIENDS_CHATTING_ZONE_II"),
+          InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/LEGEND_HU_BSDK"),
           ],
                [
-                InlineKeyboardButton("• ɪɴᴄʀɪᴄɪʙʟᴇ ɴᴇᴛᴡᴏʀᴋ •", url=f"https://t.me/THE_INCRICIBLE"),
+                InlineKeyboardButton("• VILLAIN ɴᴇᴛᴡᴏʀᴋ •", url=f"https://t.me/@VILLAIN_MUSIC_UPDATE"),
 ],
 [
-InlineKeyboardButton("• ᴏғғɪᴄɪᴀʟ ʙᴏᴛ •", url=f"https://t.me/XDZ_MUSIC_BOT"),
+InlineKeyboardButton("• ᴏғғɪᴄɪᴀʟ ʙᴏᴛ •", url=f"https://t.me/ViLLaiN_Music_bot"),
 
         ]]
     
